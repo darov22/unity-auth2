@@ -2,7 +2,13 @@
     "users": [
         {
             "username": "test auth",
-            "password": "darov228"
+            "password": "darov228",
+            "userID": ""
+        },
+        {
+            "username": "Glent huisoso",
+            "password": "test",
+            "userID": "18026367"
         }
     ]
 }
