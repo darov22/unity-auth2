@@ -35,6 +35,12 @@
             "password": "darov201021",
             "userID": "56174561",
             "money": 100000
+        },
+        {
+            "username": "TT223",
+            "password": "TT223",
+            "userID": "45373137",
+            "money": 0
         }
     ]
 }
