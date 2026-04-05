@@ -3,27 +3,38 @@
         {
             "username": "test auth",
             "password": "darov228",
-            "userID": ""
+            "userID": "",
+            "money": 0
         },
         {
             "username": "Glent huisoso",
             "password": "test",
-            "userID": "18026367"
+            "userID": "18026367",
+            "money": 0
         },
         {
             "username": "hui",
             "password": "sss",
-            "userID": "78799968"
+            "userID": "78799968",
+            "money": 0
         },
         {
             "username": "hh",
             "password": "222",
-            "userID": "00000001"
+            "userID": "00000001",
+            "money": 0
         },
         {
             "username": "Nays",
             "password": "darov228",
-            "userID": "30832808"
+            "userID": "30832808",
+            "money": 0
+        },
+        {
+            "username": "Naysoff",
+            "password": "darov201021",
+            "userID": "56174561",
+            "money": 0
         }
     ]
 }
