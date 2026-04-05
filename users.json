@@ -41,6 +41,12 @@
             "password": "TT223",
             "userID": "0001",
             "money": 100000
+        },
+        {
+            "username": "222",
+            "password": "222",
+            "userID": "14406648",
+            "money": 0
         }
     ]
 }
