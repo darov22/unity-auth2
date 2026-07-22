@@ -47,6 +47,12 @@
             "password": "222",
             "userID": "14406648",
             "money": 0
+        },
+        {
+            "username": "Хуйло",
+            "password": "123",
+            "userID": "42772275",
+            "money": 0
         }
     ]
 }
